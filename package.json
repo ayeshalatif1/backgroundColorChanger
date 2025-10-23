@@ -1,5 +1,6 @@
 {
-  "name": "bgchanger",
+  "name": "bgcolorhanger",
+  "homepage": "https://ayeshalatif1..github.io/backgroundColorChanger",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -7,6 +8,7 @@
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
+    "deploy":"gh-pages --save-dev",
     "preview": "vite preview"
   },
   "dependencies": {
