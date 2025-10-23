@@ -18,7 +18,7 @@ This app allows users to switch between multiple colors. When user switch to a d
 
 ##  Live Demo
 
- [View Live Project](https://your-username.github.io/your-repo-name/)
+ [View Live Project] (https://ayeshalatif1.github.io/backgroundColorChanger//)
 
 
 
